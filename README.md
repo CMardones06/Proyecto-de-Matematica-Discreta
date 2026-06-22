@@ -41,4 +41,5 @@ Para asegurar el buen funcionamiento del programa, el archivo datos_rutas.csv de
 2. Seleccionar ciudad de origen
 3. Seleccionar ciudad de destino
 4. Presionar el botón de Calcular Ruta
-5. Revisar los resultados del cálculo de ruta y la visualización del grafo
+5. Se abre automaticamente la visualización de la ruta como grafo
+6. Volver a la ventana anterior para ver la distancia total
